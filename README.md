@@ -12,7 +12,7 @@ This is a batch file (.bat) script for a utility tool that includes a menu inter
        - Fake error box (unclosable)
        - Text to Voice (delete temp files by your self)
     
-     If you have any suggestions what esle I should add to this program, DM me on Discord (paython2796)
+  6. If you have any suggestions what esle I should add to this program, DM me on Discord (paython2796)
 
 The script includes visual formatting with ASCII art and colors to improve the user experience in the command-line interface. It also features navigation logic, allowing users to interact with different tools by entering specific numbers corresponding to the tool options.
 ![prev-page-2](https://github.com/user-attachments/assets/acb46927-8c2d-4777-bf96-f65e90766aaa)
