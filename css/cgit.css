@@ -3,7 +3,7 @@ div#cgit {
 	margin: 0em;
 	font-family: sans-serif;
 	font-size: 10pt;
-	color: #8700ff;
+	color: #e5001e;
 	background-color: #2b2b2b;
 	padding: 4px;
 	-webkit-transition: all 0.1s ease;
@@ -58,7 +58,7 @@ div#cgit table#header td.form select {
 }
 
 div#cgit table#header td.sub {
-	color: #8700ff;
+	color: #e5001e;
 	border-top: solid 1px #ccc;
 	padding-left: 10px;
 }
@@ -75,7 +75,7 @@ div#cgit table.tabs td a {
 }
 
 div#cgit table.tabs td a.active {
-	color: #8700ff;
+	color: #e5001e;
 	background-color: #ccc;
 }
 
@@ -97,7 +97,7 @@ div#cgit table.tabs td.form select {
 div#cgit div.path {
 	margin: 0px;
 	padding: 5px 2em 2px 2em;
-	color: #8700ff;
+	color: #e5001e;
 	background-color: #fcff5e;
 }
 
